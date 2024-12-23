@@ -1,0 +1,358 @@
+C:\C#\Source\HospitalManagement\bin\HospitalManagement.dll.config
+C:\C#\Source\HospitalManagement\bin\HospitalManagement.dll
+C:\C#\Source\HospitalManagement\bin\HospitalManagement.pdb
+C:\C#\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+C:\C#\Source\HospitalManagement\bin\AutoMapper.dll
+C:\C#\Source\HospitalManagement\bin\BELibrary.dll
+C:\C#\Source\HospitalManagement\bin\CKFinder.dll
+C:\C#\Source\HospitalManagement\bin\EntityFramework.dll
+C:\C#\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+C:\C#\Source\HospitalManagement\bin\log4net.dll
+C:\C#\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\C#\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+C:\C#\Source\HospitalManagement\bin\PagedList.dll
+C:\C#\Source\HospitalManagement\bin\PagedList.Mvc.dll
+C:\C#\Source\HospitalManagement\bin\System.ValueTuple.dll
+C:\C#\Source\HospitalManagement\bin\System.Web.Helpers.dll
+C:\C#\Source\HospitalManagement\bin\System.Web.Mvc.dll
+C:\C#\Source\HospitalManagement\bin\System.Web.Optimization.dll
+C:\C#\Source\HospitalManagement\bin\System.Web.Razor.dll
+C:\C#\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+C:\C#\Source\HospitalManagement\bin\System.Web.WebPages.dll
+C:\C#\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+C:\C#\Source\HospitalManagement\bin\WebGrease.dll
+C:\C#\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+C:\C#\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+C:\C#\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+C:\C#\Source\HospitalManagement\bin\BELibrary.pdb
+C:\C#\Source\HospitalManagement\bin\BELibrary.dll.config
+C:\C#\Source\HospitalManagement\bin\AutoMapper.pdb
+C:\C#\Source\HospitalManagement\bin\AutoMapper.xml
+C:\C#\Source\HospitalManagement\bin\EntityFramework.xml
+C:\C#\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+C:\C#\Source\HospitalManagement\bin\log4net.xml
+C:\C#\Source\HospitalManagement\bin\PagedList.xml
+C:\C#\Source\HospitalManagement\bin\PagedList.Mvc.xml
+C:\C#\Source\HospitalManagement\bin\System.ValueTuple.xml
+C:\C#\Source\HospitalManagement\bin\System.Web.Helpers.xml
+C:\C#\Source\HospitalManagement\bin\System.Web.Mvc.xml
+C:\C#\Source\HospitalManagement\bin\System.Web.Optimization.xml
+C:\C#\Source\HospitalManagement\bin\System.Web.Razor.xml
+C:\C#\Source\HospitalManagement\bin\System.Web.WebPages.xml
+C:\C#\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+C:\C#\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+C:\C#\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+C:\C#\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+C:\C#\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+C:\C#\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+C:\C#\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+C:\C#\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\C#\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\C#\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+C:\C#\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+C:\C#\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb
+C:\C#\QLPK\Source\HospitalManagement\bin\HospitalManagement.dll.config
+C:\C#\QLPK\Source\HospitalManagement\bin\HospitalManagement.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\HospitalManagement.pdb
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\csc.exe
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\csc.exe.config
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\csc.rsp
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\csi.exe
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\csi.exe.config
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\csi.rsp
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.AppContext.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Console.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Compression.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Claims.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.ValueTuple.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\vbc.exe
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\vbc.exe.config
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\vbc.rsp
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe
+C:\C#\QLPK\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\C#\QLPK\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\AutoMapper.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\BELibrary.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\CKFinder.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\EntityFramework.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\log4net.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\PagedList.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\PagedList.Mvc.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.ValueTuple.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Helpers.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Mvc.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Optimization.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Razor.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\WebGrease.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+C:\C#\QLPK\Source\HospitalManagement\bin\BELibrary.pdb
+C:\C#\QLPK\Source\HospitalManagement\bin\BELibrary.dll.config
+C:\C#\QLPK\Source\HospitalManagement\bin\AutoMapper.pdb
+C:\C#\QLPK\Source\HospitalManagement\bin\AutoMapper.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\EntityFramework.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\log4net.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\PagedList.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\PagedList.Mvc.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.ValueTuple.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Helpers.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Mvc.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Optimization.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.Razor.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+C:\C#\QLPK\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+C:\C#\QLPK\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+C:\C#\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\C#\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\C#\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+C:\C#\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+C:\C#\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\HospitalManagement.dll.config
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\HospitalManagement.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\HospitalManagement.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csc.exe
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csc.exe.config
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csc.rsp
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csi.exe
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csi.exe.config
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csi.rsp
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.AppContext.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Console.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Compression.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Claims.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.ValueTuple.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\vbc.exe
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\vbc.exe.config
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\vbc.rsp
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\AutoMapper.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\BELibrary.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\CKFinder.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\log4net.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.Mvc.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.ValueTuple.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Helpers.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Mvc.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Optimization.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Razor.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\WebGrease.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\BELibrary.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\BELibrary.dll.config
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\AutoMapper.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\AutoMapper.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\log4net.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.Mvc.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.ValueTuple.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Helpers.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Mvc.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Optimization.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Razor.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\obj\Debug\Hospital.2B9058E3.Up2Date
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\HospitalManagement.dll.config
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\HospitalManagement.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\HospitalManagement.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csc.exe
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csc.exe.config
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csc.rsp
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csi.exe
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csi.exe.config
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\csi.rsp
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.AppContext.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Console.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\vbc.exe
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\vbc.exe.config
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\vbc.rsp
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\AutoMapper.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\BELibrary.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\CKFinder.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\log4net.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.Mvc.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.ValueTuple.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Helpers.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Mvc.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Optimization.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Razor.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\WebGrease.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\BELibrary.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\BELibrary.dll.config
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\AutoMapper.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\AutoMapper.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\log4net.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\PagedList.Mvc.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.ValueTuple.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Helpers.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Mvc.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Optimization.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.Razor.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb

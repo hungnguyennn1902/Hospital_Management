@@ -1,0 +1,112 @@
+C:\C#\Source\BELibrary\bin\Debug\BELibrary.dll.config
+C:\C#\Source\BELibrary\bin\Debug\BELibrary.dll
+C:\C#\Source\BELibrary\bin\Debug\BELibrary.pdb
+C:\C#\Source\BELibrary\bin\Debug\AutoMapper.dll
+C:\C#\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\C#\Source\BELibrary\bin\Debug\EntityFramework.dll
+C:\C#\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+C:\C#\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\C#\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+C:\C#\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+C:\C#\Source\BELibrary\bin\Debug\AutoMapper.pdb
+C:\C#\Source\BELibrary\bin\Debug\AutoMapper.xml
+C:\C#\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+C:\C#\Source\BELibrary\bin\Debug\EntityFramework.xml
+C:\C#\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+C:\C#\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\C#\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+C:\C#\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.Migrations.Initdatabase.resources
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.Migrations.New_Article_table.resources
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.dll
+C:\C#\Source\BELibrary\obj\Debug\BELibrary.pdb
+C:\C#\QLPK\Source\BELibrary\bin\Debug\BELibrary.dll.config
+C:\C#\QLPK\Source\BELibrary\bin\Debug\BELibrary.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\BELibrary.pdb
+C:\C#\QLPK\Source\BELibrary\bin\Debug\AutoMapper.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\EntityFramework.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+C:\C#\QLPK\Source\BELibrary\bin\Debug\AutoMapper.pdb
+C:\C#\QLPK\Source\BELibrary\bin\Debug\AutoMapper.xml
+C:\C#\QLPK\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+C:\C#\QLPK\Source\BELibrary\bin\Debug\EntityFramework.xml
+C:\C#\QLPK\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\QLPK\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+C:\C#\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\C#\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+C:\C#\QLPK\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.Migrations.Initdatabase.resources
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.Migrations.New_Article_table.resources
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.dll
+C:\C#\QLPK\Source\BELibrary\obj\Debug\BELibrary.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\BELibrary.dll.config
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\BELibrary.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\BELibrary.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.Migrations.Initdatabase.resources
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.Migrations.New_Article_table.resources
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.Up2Date
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.dll
+C:\Chun\0\C#\ASP NET - Quản Ly Phòng Khám\53\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\BELibrary.dll.config
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\BELibrary.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\BELibrary.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.Migrations.Initdatabase.resources
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.Migrations.New_Article_table.resources
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.dll
+C:\Users\HUNG\Downloads\Compressed\QLPK\QLPK\QLPK\Source\BELibrary\obj\Debug\BELibrary.pdb
